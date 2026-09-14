@@ -1,0 +1,25 @@
+{
+  "name": "GEM — Gwagwalada Elite Movement",
+  "short_name": "GEM",
+  "description": "Connect with the Gwagwalada Elite Movement. Share posts, join groups and message members. Empowering youth, building legacy.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#0E5233",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
